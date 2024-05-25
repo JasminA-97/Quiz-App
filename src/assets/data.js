@@ -1,0 +1,42 @@
+export const data = [
+    {
+        question:"Who created React.js?",
+        option1:"Jordan Mike",
+        option2:"Jordan Walke",
+        option3:"Tim Lee",
+        option4:"Jordan Lee",
+        ans:2,
+    },
+    {
+        question: "What's the fundamental building block of React apps?",
+        option1: "Components",
+        option2: "Blocks",
+        option3: "Elements",
+        option4: "Effects",
+        ans: 1,
+    },
+    {
+        question: "What's the name of the syntax we use to describe the UI in React components?",
+        option1: "FBJ",
+        option2: "Babel",
+        option3: "ES2015",
+        option4: "JSX",
+        ans: 4,
+    },
+    {
+        question: "How to pass data into a child component?",
+        option1: "State",
+        option2: "Props",
+        option3: "PropTypes",
+        option4: "Parameters",
+        ans: 2,
+    },
+    {
+        question:"What triggers a UI re-render in React?",
+        option1:"Running an effect",
+        option2:"Passing props",
+        option3:"Updating state",
+        option4:"Adding event listeners to DOM elements",
+        ans:3,
+    },
+];
